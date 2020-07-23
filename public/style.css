@@ -1,0 +1,31 @@
+body {
+    background: rgb(209, 230, 236);
+    color: rgb(20, 18, 18);
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*Interface Do Relogio*/
+#interface-pomodoro {
+    border: 1px rgba(36, 33, 32, 0.933)solid;
+    width: 300px;
+    border-radius: 31px;
+    text-align: center;
+    padding: 10px;
+    font-size: 35pt;
+    margin: auto;
+    margin-top: 200px;
+    margin-bottom: 30px;
+}
+/*Botao do relogio*/
+button#submit {
+    border: 0;
+    background: rgb(63, 216, 89);
+    border-radius: 10px;
+    width: 150px;
+    height: 30px;
+    color: rgb(226, 248, 230);
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.button-input {
+    margin-left: 595px 
+}
